@@ -1,0 +1,22 @@
+body{
+	background-color: #FFFFFF;
+}
+
+.cyan-700{
+	background-color: #0097A7 !important; 
+}
+.cyan-A700{
+	background-color: #00B8D4 !important;
+}
+.no-border-radius{
+	border-radius: 0rem !important;
+}
+
+.min-height-100{
+	min-height: 100vh !important;
+}
+
+.primary-nav .navbar-nav .nav-item .nav-link {
+	color: #FFFFFF;
+	padding: 15px;
+}
